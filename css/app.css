@@ -64,3 +64,17 @@ table th
 {
 	color: #bbb;
 }
+
+
+/** MENU **/
+
+ul
+{
+	list-style: none;
+}
+
+ul li
+{
+	display: inline-block;
+	padding: 0 5px;
+}
